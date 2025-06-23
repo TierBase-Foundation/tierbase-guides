@@ -1,0 +1,5 @@
+Introduction To Time Complexity
+Notations
+Constant Factors
+Amortized Analysis
+Memory Limits
