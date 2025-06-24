@@ -1,5 +1,5 @@
-Introduction To Time Complexity
+Introduction to Time Complexity
 Notations
 Constant Factors
-Amortized Analysis
-Memory Limits
+Runtime Analysis
+Introduction to Space Complexity
